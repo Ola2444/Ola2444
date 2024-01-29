@@ -5,6 +5,7 @@
 ## [Portfolio](#portfolio-1)
 ## [Tools](#tools-1)
 ## [Skills](#%EF%B8%8Fskills)
+## [Certificates](certificates-1)
 
 <br>
 
@@ -49,6 +50,12 @@ I aim to utilize my research and analytical skills in the field of software test
 ✔️ Teamwork
 
 ✔️ Proactivity and initiative
+
+<br>
+
+## 🎯Certificates
+
+🏆 [Agile Scrum Master(ASM®)](https://certificates.simplicdn.net/share/4832869_1706540797.pdf)
 
 <br>
 
