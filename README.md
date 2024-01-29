@@ -5,7 +5,7 @@
 ## [Portfolio](#portfolio-1)
 ## [Tools](#tools-1)
 ## [Skills](#%EF%B8%8Fskills)
-## [Certificates](certificates-1)
+## [Certificates](#certificates-1)
 
 <br>
 
