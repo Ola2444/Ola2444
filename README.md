@@ -55,7 +55,13 @@ I aim to utilize my research and analytical skills in the field of software test
 
 ## 🎯Certificates
 
-🏆 [Agile Scrum Master(ASM®)](https://certificates.simplicdn.net/share/4832869_1706540797.pdf)
+🏆 [Agile Scrum Master (ASM®)](https://certificates.simplicdn.net/share/4832869_1706540797.pdf)
+
+🏆 [Software Testing in Practice - Techniques and Tools](https://api.strefakursow.pl/api/v2/public/certificate/pdf/9qk05hfywc0sooco4ook0gw0wck0kkc)
+
+🏆 [Introduction to SQL](https://certificates.simplicdn.net/share/4914595_1709205732.pdf)
+
+🏆 [UX & UI - The Art of Useful Design](https://api.strefakursow.pl/api/v2/public/certificate/pdf/896hoa0tjg8wwo4g0w44kc0g40gco4w)
 
 <br>
 
