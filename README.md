@@ -43,13 +43,15 @@ I aim to utilize my research and analytical skills in the field of software test
 
 ✔️ Designing test cases and scenarios
 
-✔️ Understanding of QA theory, terminology, and strategies
+✔️ Understanding of QA theory, terminology, and strategies (ISTQB)
 
 ✔️ Analytical thinking 
 
 ✔️ Teamwork
 
 ✔️ Proactivity and initiative
+
+✔️ Basic SQL
 
 <br>
 
