@@ -13,7 +13,7 @@
 Highly motivated, structured and detail-oriented professional seeking a challenging role as a Manual Tester to leverage my expertise in  testing methodologies and gain hands-on experience.
 
 My background in co-founding a real-estate start-up has equipped me with valuable insights into the importance of adaptability, resilience, and the ability to work effectively within a resource-constrained environment.
-My experience as a board assistant instilled in me the importance of precision, accuracy, and the ability to work under pressure. It also cultivated my ability to collaborate effectively with cross-functional teams, as I frequently interacted with various departments within the organization, ensuring smooth operations and facilitating decision-making processes.
+My experience as a board assistant instilled in me a deep appreciation for precision, accuracy, and the ability to work under pressure. It also cultivated my ability to collaborate effectively with cross-functional teams, as I frequently interacted with various departments within the organization, ensuring smooth operations and facilitating decision-making processes.
 
 I aim to utilize my research and analytical skills in the field of software testing. I am constantly expanding my knowledge in this field by participating in online courses and conducting practical testing on web applications designed for educational purposes.
 
